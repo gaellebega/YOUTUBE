@@ -16,4 +16,4 @@ The purpose of this project was to **practice HTML and CSS** basics and improve 
 ## 🛠️ Tech Stack
 - **HTML5** – Page structure  
 - **CSS3** – Styling and layout  
-- (Optional) JavaScript –(to be added later) 
+-  JavaScript –(to be added later) 
